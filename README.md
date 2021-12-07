@@ -1,6 +1,6 @@
 #  Detecting Individual Decision-Making Style: Exploring Behavioral Stylometry in Chess
 
-![](images/neurips_embedding_thumbnail.svg)
+[![](images/chess_embedding_thumbnail.png)](images/chess_embedding_thumbnail_vector.svg)
 
 
 ## Code
@@ -10,4 +10,4 @@ Due to the sensitive nature of our model the code is not available for direct do
 
 ## Poster
 
-![](images/chess_embedding_neurips.png)
+![](images/chess_embedding_poster.png)
